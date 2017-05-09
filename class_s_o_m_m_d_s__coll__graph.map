@@ -1,0 +1,10 @@
+<map id="SOMMDS" name="SOMMDS">
+<area shape="rect" id="node2" href="$class_s_m_a_c_o_f.html" title="A class of methods and attributes for SMACOF algorithm. " alt="" coords="5,467,84,493"/>
+<area shape="rect" id="node3" href="$class_m_d_s.html" title="A class of methods and attributes for MDS algorithms. " alt="" coords="19,365,70,392"/>
+<area shape="rect" id="node4" href="$class_dim_reduction_method.html" title="A class of methods and attributes for initialization of projection matrix. " alt="" coords="49,289,195,316"/>
+<area shape="rect" id="node9" href="$class_s_o_m.html" title="A class of methods and attributes for SOM algorithm. " alt="" coords="96,416,148,443"/>
+<area shape="rect" id="node5" href="$class_h_p_c_method.html" title="Abstract class that aggregates ObjectMatrix X and ability to send SOAP message with data about stress..." alt="" coords="117,200,209,227"/>
+<area shape="rect" id="node6" href="$class_web_interface.html" title="WebInterface" alt="" coords="142,81,241,108"/>
+<area shape="rect" id="node7" href="$class_object_matrix.html" title="A class of methods and attributes for manipulating matrices. " alt="" coords="22,81,118,108"/>
+<area shape="rect" id="node8" href="$class_data_matrix.html" title="A class of pure virtual methods for manipulating the Objectmatrix. " alt="" coords="27,5,113,32"/>
+</map>

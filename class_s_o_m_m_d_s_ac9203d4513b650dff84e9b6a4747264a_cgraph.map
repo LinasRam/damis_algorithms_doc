@@ -1,0 +1,23 @@
+<map id="SOMMDS::getProjection" name="SOMMDS::getProjection">
+<area shape="rect" id="node2" href="$class_s_o_m.html#a3bdc03e40a43bba71d88bf95d790956c" title="Returns the projection matrix Y of matrix X. " alt="" coords="463,644,599,671"/>
+<area shape="rect" id="node13" href="$class_s_m_a_c_o_f.html#a452a1da4953ad6a1310338ea1927398b" title="A default constructor. " alt="" coords="229,863,371,890"/>
+<area shape="rect" id="node14" href="$class_s_m_a_c_o_f.html#aeab285dca057c854c5e7ebd48c533173" title="Returns the projection matrix Y of matrix X. " alt="" coords="219,812,381,839"/>
+<area shape="rect" id="node3" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="933,55,1107,82"/>
+<area shape="rect" id="node4" href="$class_data_object.html#afc40c36182d015ebfca1582dfb38a997" title="Returns the number of features. " alt="" coords="925,426,1115,452"/>
+<area shape="rect" id="node5" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="923,274,1117,300"/>
+<area shape="rect" id="node6" href="$class_statistics.html#a95c663d5ada9f214460a2ee605cb8772" title="Statistics::getRandom" alt="" coords="703,695,853,722"/>
+<area shape="rect" id="node7" href="$class_object_matrix.html#a95ccc85c53784f770d61b85eb6e8ec83" title="Updates the feature value. " alt="" coords="693,578,863,620"/>
+<area shape="rect" id="node8" href="$class_data_object.html#aa258d90bef79d829aecf5c0f96d4cb21" title="Returns the feature at specified index. " alt="" coords="935,586,1105,612"/>
+<area shape="rect" id="node9" href="$class_distance_metrics.html#ab25ac729133a4462dc042f3018dd11e1" title="Calculates the distance between two DataObjects. " alt="" coords="681,426,875,452"/>
+<area shape="rect" id="node10" href="$class_object_matrix.html#ad86f28d800ac47591eaa921c8e30fc98" title="Adds the DataObject to the set of DataObjects. " alt="" coords="697,863,859,890"/>
+<area shape="rect" id="node11" href="$class_object_matrix.html#aff12e3268d72ed3289bb4ef2fb8a0931" title="ObjectMatrix::setPrintClass" alt="" coords="687,914,869,940"/>
+<area shape="rect" id="node12" href="$class_object_matrix.html#a80dcb1409cfb2dba002b92998fdd1ba5" title="Updates the class value. " alt="" coords="693,746,863,788"/>
+<area shape="rect" id="node15" href="$class_s_m_a_c_o_f.html#a217cf766a28d06bdcc42e7fca7237e69" title="Returns the stress error value. " alt="" coords="460,223,603,250"/>
+<area shape="rect" id="node19" href="$class_object_matrix.html#a69d885c4bc2de6c443f0203f90f390ac" title="Clears the items from the DataObjects set. *. " alt="" coords="429,964,633,991"/>
+<area shape="rect" id="node20" href="$class_m_d_s.html#ae2c75ed64a8d3ec252c1b48d400121b1" title="Calculates the matrix of the Guttman. " alt="" coords="470,476,593,503"/>
+<area shape="rect" id="node21" href="$class_data_object.html#a5f3a38761900e1dccbee711b1e58d879" title="Returns the class label. " alt="" coords="443,1015,620,1042"/>
+<area shape="rect" id="node22" href="$class_object_matrix.html#a09495608fe0a17993015a62b2c4ef177" title="Returns class atrribute names. " alt="" coords="437,1066,626,1108"/>
+<area shape="rect" id="node16" href="$class_dim_reduction_method.html#af49b71f47bc81c1dc9de215fb2daba29" title="Returns the stress error value. " alt="" coords="705,157,851,198"/>
+<area shape="rect" id="node17" href="$class_data_object.html#a42a5e8eb6c56bc7b27bb078105e1e07e" title="Returns features of the current data object. " alt="" coords="938,139,1102,166"/>
+<area shape="rect" id="node18" href="$class_object_matrix.html#aa755729135424654138d092c8e4ffb82" title="Returns weight of X matrix (for stress calculation) " alt="" coords="939,190,1101,216"/>
+</map>

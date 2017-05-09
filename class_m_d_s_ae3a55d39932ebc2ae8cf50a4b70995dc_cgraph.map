@@ -1,0 +1,8 @@
+<map id="MDS::getGutman" name="MDS::getGutman">
+<area shape="rect" id="node2" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="176,5,371,32"/>
+<area shape="rect" id="node3" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="187,56,360,83"/>
+<area shape="rect" id="node4" href="$class_data_object.html#aa258d90bef79d829aecf5c0f96d4cb21" title="Returns the feature at specified index. " alt="" coords="429,107,599,133"/>
+<area shape="rect" id="node5" href="$class_distance_metrics.html#ab25ac729133a4462dc042f3018dd11e1" title="Calculates the distance between two DataObjects. " alt="" coords="177,157,370,184"/>
+<area shape="rect" id="node7" href="$class_object_matrix.html#a95ccc85c53784f770d61b85eb6e8ec83" title="Updates the feature value. " alt="" coords="188,209,359,250"/>
+<area shape="rect" id="node6" href="$class_data_object.html#afc40c36182d015ebfca1582dfb38a997" title="Returns the number of features. " alt="" coords="419,157,609,184"/>
+</map>

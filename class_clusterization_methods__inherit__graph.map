@@ -1,0 +1,8 @@
+<map id="ClusterizationMethods" name="ClusterizationMethods">
+<area shape="rect" id="node5" href="$class_d_e_c_t_r_e_e.html" title="DECTREE" alt="" coords="5,304,88,331"/>
+<area shape="rect" id="node6" href="$class_k_m_e_a_n_s.html" title="KMEANS" alt="" coords="113,304,191,331"/>
+<area shape="rect" id="node7" href="$class_m_l_p.html" title="MLP" alt="" coords="215,304,265,331"/>
+<area shape="rect" id="node2" href="$class_dim_reduction_method.html" title="A class of methods and attributes for initialization of projection matrix. " alt="" coords="79,155,225,181"/>
+<area shape="rect" id="node3" href="$class_h_p_c_method.html" title="Abstract class that aggregates ObjectMatrix X and ability to send SOAP message with data about stress..." alt="" coords="106,80,198,107"/>
+<area shape="rect" id="node4" href="$class_web_interface.html" title="WebInterface" alt="" coords="103,5,201,32"/>
+</map>

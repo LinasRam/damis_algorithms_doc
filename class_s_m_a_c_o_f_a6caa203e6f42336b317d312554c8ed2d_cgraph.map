@@ -1,0 +1,9 @@
+<map id="SMACOF::SMACOF" name="SMACOF::SMACOF">
+<area shape="rect" id="node2" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="415,5,609,32"/>
+<area shape="rect" id="node3" href="$class_object_matrix.html#ad86f28d800ac47591eaa921c8e30fc98" title="Adds the DataObject to the set of DataObjects. " alt="" coords="431,56,593,83"/>
+<area shape="rect" id="node4" href="$class_dim_reduction_method.html#a38e150517e00fc82e6b1fba06c0ee30f" title="Initializes the projection matrix. " alt="" coords="196,107,367,149"/>
+<area shape="rect" id="node5" href="$class_statistics.html#a95c663d5ada9f214460a2ee605cb8772" title="Statistics::getRandom" alt="" coords="437,208,587,235"/>
+<area shape="rect" id="node6" href="$class_object_matrix.html#ad4b04e1394466da4d3c30b302d97eee5" title="returns quantity of different classes " alt="" coords="417,259,607,285"/>
+<area shape="rect" id="node7" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="425,107,599,133"/>
+<area shape="rect" id="node8" href="$class_data_object.html#a5f3a38761900e1dccbee711b1e58d879" title="Returns the class label. " alt="" coords="423,157,601,184"/>
+</map>

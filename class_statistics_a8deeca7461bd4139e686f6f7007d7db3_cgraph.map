@@ -1,0 +1,5 @@
+<map id="Statistics::getAverage" name="Statistics::getAverage">
+<area shape="rect" id="node2" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="203,5,397,32"/>
+<area shape="rect" id="node3" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="213,56,387,83"/>
+<area shape="rect" id="node4" href="$class_data_object.html#aa258d90bef79d829aecf5c0f96d4cb21" title="Returns the feature at specified index. " alt="" coords="215,107,385,133"/>
+</map>

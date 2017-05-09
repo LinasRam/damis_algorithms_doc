@@ -1,0 +1,4 @@
+<map id="DataMatrix::~DataMatrix" name="DataMatrix::~DataMatrix">
+<area shape="rect" id="node2" href="$class_data_matrix.html#a59f24cc5eee124b6a59a1a99e2691e6c" title="A pure virtual method for loading data from an arff file. " alt="" coords="219,5,399,32"/>
+<area shape="rect" id="node3" href="$class_data_matrix.html#aafa78d68d26934e1fdcfbb6b1303d999" title="A pure virtual method for saving data to an arff file. " alt="" coords="217,56,400,83"/>
+</map>

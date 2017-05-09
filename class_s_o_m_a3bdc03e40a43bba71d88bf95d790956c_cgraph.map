@@ -1,0 +1,12 @@
+<map id="SOM::getProjection" name="SOM::getProjection">
+<area shape="rect" id="node2" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="200,5,373,32"/>
+<area shape="rect" id="node3" href="$class_data_object.html#afc40c36182d015ebfca1582dfb38a997" title="Returns the number of features. " alt="" coords="432,249,623,276"/>
+<area shape="rect" id="node4" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="189,107,384,133"/>
+<area shape="rect" id="node5" href="$class_statistics.html#a95c663d5ada9f214460a2ee605cb8772" title="Statistics::getRandom" alt="" coords="211,157,362,184"/>
+<area shape="rect" id="node6" href="$class_object_matrix.html#a95ccc85c53784f770d61b85eb6e8ec83" title="Updates the feature value. " alt="" coords="201,209,372,250"/>
+<area shape="rect" id="node7" href="$class_data_object.html#aa258d90bef79d829aecf5c0f96d4cb21" title="Returns the feature at specified index. " alt="" coords="442,312,613,339"/>
+<area shape="rect" id="node8" href="$class_distance_metrics.html#ab25ac729133a4462dc042f3018dd11e1" title="Calculates the distance between two DataObjects. " alt="" coords="190,275,383,301"/>
+<area shape="rect" id="node9" href="$class_object_matrix.html#ad86f28d800ac47591eaa921c8e30fc98" title="Adds the DataObject to the set of DataObjects. " alt="" coords="205,376,368,403"/>
+<area shape="rect" id="node10" href="$class_object_matrix.html#aff12e3268d72ed3289bb4ef2fb8a0931" title="ObjectMatrix::setPrintClass" alt="" coords="195,427,378,453"/>
+<area shape="rect" id="node11" href="$class_object_matrix.html#a80dcb1409cfb2dba002b92998fdd1ba5" title="Updates the class value. " alt="" coords="201,478,372,519"/>
+</map>

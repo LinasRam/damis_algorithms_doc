@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_web_interface.html" title="WebInterface" alt="" coords="5,259,104,285"/>
+<area shape="rect" id="node2" href="$class_h_p_c_method.html" title="Abstract class that aggregates ObjectMatrix X and ability to send SOAP message with data about stress..." alt="" coords="152,259,244,285"/>
+<area shape="rect" id="node3" href="$class_dim_reduction_method.html" title="A class of methods and attributes for initialization of projection matrix. " alt="" coords="292,259,439,285"/>
+<area shape="rect" id="node4" href="$class_clusterization_methods.html" title="ClusterizationMethods" alt="" coords="487,81,637,108"/>
+<area shape="rect" id="node8" href="$class_m_d_s.html" title="A class of methods and attributes for MDS algorithms. " alt="" coords="537,208,587,235"/>
+<area shape="rect" id="node15" href="$class_p_c_a__.html" title="PCA_" alt="" coords="534,259,590,285"/>
+<area shape="rect" id="node16" href="$class_s_a_m_a_n_n.html" title="A class of methods and attributes for SAMANN algorithm. " alt="" coords="523,309,601,336"/>
+<area shape="rect" id="node17" href="$class_s_o_m.html" title="A class of methods and attributes for SOM algorithm. " alt="" coords="536,360,588,387"/>
+<area shape="rect" id="node5" href="$class_d_e_c_t_r_e_e.html" title="DECTREE" alt="" coords="685,5,768,32"/>
+<area shape="rect" id="node6" href="$class_k_m_e_a_n_s.html" title="KMEANS" alt="" coords="687,56,766,83"/>
+<area shape="rect" id="node7" href="$class_m_l_p.html" title="MLP" alt="" coords="702,107,751,133"/>
+<area shape="rect" id="node9" href="$class_d_m_a.html" title="A class of methods and attributes for DMA algorithm. " alt="" coords="701,157,752,184"/>
+<area shape="rect" id="node10" href="$class_s_d_s.html" title="A class of methods and attributes for SDS algorithm. " alt="" coords="702,208,751,235"/>
+<area shape="rect" id="node11" href="$class_s_d_s2.html" title="SDS2" alt="" coords="699,259,755,285"/>
+<area shape="rect" id="node12" href="$class_s_m_a_c_o_f.html" title="A class of methods and attributes for SMACOF algorithm. " alt="" coords="687,309,766,336"/>
+<area shape="rect" id="node13" href="$class_s_m_a_c_o_f_z_e_i_d_e_l.html" title="A class of methods and attributes for SMACOFZEIDEL algorithm. " alt="" coords="816,309,939,336"/>
+<area shape="rect" id="node14" href="$class_s_o_m_m_d_s.html" title="A class of methods and attributes for SOMMDS algorithm. " alt="" coords="837,360,918,387"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ClusterizationMethods::setYMatrixDimensions" name="ClusterizationMethods::setYMatrixDimensions">
+<area shape="rect" id="node2" href="$class_clusterization_methods.html#ab6498c029c3d55983dd56af50cbe5bb5" title="Sets number of retrun rows. " alt="" coords="235,5,385,47"/>
+<area shape="rect" id="node3" href="$class_clusterization_methods.html#a25157bb7fceacc7011196ebf0a2ee129" title="Sets number of features in the return data. " alt="" coords="215,71,405,112"/>
+</map>

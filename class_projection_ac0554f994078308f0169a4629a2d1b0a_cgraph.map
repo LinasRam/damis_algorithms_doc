@@ -1,0 +1,18 @@
+<map id="Projection::~Projection" name="Projection::~Projection">
+<area shape="rect" id="node2" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="695,386,889,412"/>
+<area shape="rect" id="node3" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="705,227,879,254"/>
+<area shape="rect" id="node4" href="$class_data_object.html#afc40c36182d015ebfca1582dfb38a997" title="Returns the number of features. " alt="" coords="456,227,647,254"/>
+<area shape="rect" id="node5" href="$class_data_object.html#aa258d90bef79d829aecf5c0f96d4cb21" title="Returns the feature at specified index. " alt="" coords="466,278,637,304"/>
+<area shape="rect" id="node6" href="$class_object_matrix.html#ad86f28d800ac47591eaa921c8e30fc98" title="Adds the DataObject to the set of DataObjects. " alt="" coords="711,798,873,824"/>
+<area shape="rect" id="node7" href="$class_statistics.html#a431a4da4a21d1d7d35d864efa4bd560a" title="Statistics::getAverageColumns" alt="" coords="208,176,408,203"/>
+<area shape="rect" id="node8" href="$class_p_c_a__.html#a4d1ff113e19c93ef2a83e10e5bc42f9d" title="Returns the projection matrix. " alt="" coords="238,446,378,472"/>
+<area shape="rect" id="node9" href="$class_dim_reduction_method.html#aaac0eb9255ba23a321397abd1ed4c6c3" title="Sets the projection dimension. " alt="" coords="468,380,635,421"/>
+<area shape="rect" id="node10" href="$class_dim_reduction_method.html#a38e150517e00fc82e6b1fba06c0ee30f" title="Initializes the projection matrix. " alt="" coords="466,732,637,773"/>
+<area shape="rect" id="node14" href="$class_p_c_a__.html#a182e7e2606c0736878c94d2c1cc3a940" title="Returns the eigenvalues of the projection. " alt="" coords="474,446,629,472"/>
+<area shape="rect" id="node15" href="$class_object_matrix.html#a95ccc85c53784f770d61b85eb6e8ec83" title="Updates the feature value. " alt="" coords="466,497,637,538"/>
+<area shape="rect" id="node16" href="$class_object_matrix.html#aff12e3268d72ed3289bb4ef2fb8a0931" title="ObjectMatrix::setPrintClass" alt="" coords="460,563,643,590"/>
+<area shape="rect" id="node17" href="$class_object_matrix.html#a09495608fe0a17993015a62b2c4ef177" title="Returns class atrribute names. " alt="" coords="457,614,646,656"/>
+<area shape="rect" id="node11" href="$class_statistics.html#a95c663d5ada9f214460a2ee605cb8772" title="Statistics::getRandom" alt="" coords="717,646,867,672"/>
+<area shape="rect" id="node12" href="$class_object_matrix.html#ad4b04e1394466da4d3c30b302d97eee5" title="returns quantity of different classes " alt="" coords="697,696,887,723"/>
+<area shape="rect" id="node13" href="$class_data_object.html#a5f3a38761900e1dccbee711b1e58d879" title="Returns the class label. " alt="" coords="703,747,881,774"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ObjectMatrix::saveDataMatrix" name="ObjectMatrix::saveDataMatrix">
+<area shape="rect" id="node2" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="255,5,429,32"/>
+<area shape="rect" id="node3" href="$class_data_object.html#afc40c36182d015ebfca1582dfb38a997" title="Returns the number of features. " alt="" coords="247,56,437,83"/>
+<area shape="rect" id="node4" href="$class_a_r_f_f.html#a75a3abe9595604658206380d84e6fdec" title="A method that writes data to an arff file. " alt="" coords="283,107,401,133"/>
+</map>

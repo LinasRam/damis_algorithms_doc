@@ -1,0 +1,19 @@
+<map id="paralelCompute" name="paralelCompute">
+<area shape="rect" id="node2" href="$class_object_matrix.html#ad0d2f016002ed87b2a354e50a4cdfcee" title="Saves the ObjectMatrix data to an arff file. " alt="" coords="165,67,359,94"/>
+<area shape="rect" id="node3" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="417,16,591,43"/>
+<area shape="rect" id="node4" href="$class_data_object.html#afc40c36182d015ebfca1582dfb38a997" title="Returns the number of features. " alt="" coords="409,118,599,144"/>
+<area shape="rect" id="node6" href="$class_a_r_f_f.html#a2a8425f2d28a11e634d7f9719781e869" title="Writes satistical data to a file. " alt="" coords="191,336,333,363"/>
+<area shape="rect" id="node7" href="$class_additional_methods.html#a455b29aa33d8c3b0a4357aa43bd708da" title="Allocates a two&#45;dimensional array of doubles in continuous space. " alt="" coords="435,220,573,261"/>
+<area shape="rect" id="node8" href="$class_additional_methods.html#a7ebee5544ae6a704b0df53aa0803ddc7" title="Converts a two&#45;dimensional array to ObjectMatrix object. " alt="" coords="187,388,337,429"/>
+<area shape="rect" id="node10" href="$class_object_matrix.html#a95ccc85c53784f770d61b85eb6e8ec83" title="Updates the feature value. " alt="" coords="177,453,347,494"/>
+<area shape="rect" id="node11" href="$class_object_matrix.html#aff12e3268d72ed3289bb4ef2fb8a0931" title="ObjectMatrix::setPrintClass" alt="" coords="171,519,353,546"/>
+<area shape="rect" id="node12" href="$class_object_matrix.html#a80dcb1409cfb2dba002b92998fdd1ba5" title="Updates the class value. " alt="" coords="177,570,347,612"/>
+<area shape="rect" id="node13" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="407,286,601,312"/>
+<area shape="rect" id="node14" href="$class_additional_methods.html#ac7705cfa0491309b52ea3f3058679ea4" title="Converts ObjectMatrix to 2D array of doubles. " alt="" coords="187,169,337,210"/>
+<area shape="rect" id="node16" href="$class_object_matrix.html#ad4b04e1394466da4d3c30b302d97eee5" title="returns quantity of different classes " alt="" coords="167,636,357,663"/>
+<area shape="rect" id="node17" href="$class_object_matrix.html#a09495608fe0a17993015a62b2c4ef177" title="Returns class atrribute names. " alt="" coords="167,688,357,729"/>
+<area shape="rect" id="node18" href="$class_data_object.html#a5f3a38761900e1dccbee711b1e58d879" title="Returns the class label. " alt="" coords="173,754,351,780"/>
+<area shape="rect" id="node5" href="$class_a_r_f_f.html#a75a3abe9595604658206380d84e6fdec" title="A method that writes data to an arff file. " alt="" coords="445,67,563,94"/>
+<area shape="rect" id="node9" href="$class_object_matrix.html#ad86f28d800ac47591eaa921c8e30fc98" title="Adds the DataObject to the set of DataObjects. " alt="" coords="423,395,585,422"/>
+<area shape="rect" id="node15" href="$class_data_object.html#aa258d90bef79d829aecf5c0f96d4cb21" title="Returns the feature at specified index. " alt="" coords="419,168,589,195"/>
+</map>

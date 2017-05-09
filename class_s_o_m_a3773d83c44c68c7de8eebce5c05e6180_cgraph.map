@@ -1,0 +1,10 @@
+<map id="SOM::getStress" name="SOM::getStress">
+<area shape="rect" id="node2" href="$class_s_o_m.html#ad74323ca3152b9126eed18afec92128c" title="Returns the quantization error. " alt="" coords="169,56,348,83"/>
+<area shape="rect" id="node3" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="396,5,591,32"/>
+<area shape="rect" id="node4" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="407,107,580,133"/>
+<area shape="rect" id="node8" href="$class_data_object.html#abb00bffdf348d4a199c0e6243caac403" title="Checks if current DataObject is identical to the given one. " alt="" coords="182,157,335,184"/>
+<area shape="rect" id="node9" href="$class_object_matrix.html#ad86f28d800ac47591eaa921c8e30fc98" title="Adds the DataObject to the set of DataObjects. " alt="" coords="177,208,340,235"/>
+<area shape="rect" id="node5" href="$class_distance_metrics.html#ab25ac729133a4462dc042f3018dd11e1" title="Calculates the distance between two DataObjects. " alt="" coords="397,56,590,83"/>
+<area shape="rect" id="node6" href="$class_data_object.html#afc40c36182d015ebfca1582dfb38a997" title="Returns the number of features. " alt="" coords="639,132,829,159"/>
+<area shape="rect" id="node7" href="$class_data_object.html#aa258d90bef79d829aecf5c0f96d4cb21" title="Returns the feature at specified index. " alt="" coords="649,56,819,83"/>
+</map>

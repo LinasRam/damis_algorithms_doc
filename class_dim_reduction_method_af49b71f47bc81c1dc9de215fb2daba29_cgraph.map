@@ -1,0 +1,7 @@
+<map id="DimReductionMethod::getStress" name="DimReductionMethod::getStress">
+<area shape="rect" id="node2" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="200,5,395,32"/>
+<area shape="rect" id="node3" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="211,56,384,83"/>
+<area shape="rect" id="node4" href="$class_data_object.html#afc40c36182d015ebfca1582dfb38a997" title="Returns the number of features. " alt="" coords="202,107,393,133"/>
+<area shape="rect" id="node5" href="$class_data_object.html#a42a5e8eb6c56bc7b27bb078105e1e07e" title="Returns features of the current data object. " alt="" coords="215,157,379,184"/>
+<area shape="rect" id="node6" href="$class_object_matrix.html#aa755729135424654138d092c8e4ffb82" title="Returns weight of X matrix (for stress calculation) " alt="" coords="216,208,379,235"/>
+</map>

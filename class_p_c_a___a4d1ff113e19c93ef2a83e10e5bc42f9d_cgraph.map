@@ -1,0 +1,16 @@
+<map id="PCA_::getProjection" name="PCA_::getProjection">
+<area shape="rect" id="node2" href="$class_dim_reduction_method.html#aaac0eb9255ba23a321397abd1ed4c6c3" title="Sets the projection dimension. " alt="" coords="205,7,372,49"/>
+<area shape="rect" id="node3" href="$class_dim_reduction_method.html#a38e150517e00fc82e6b1fba06c0ee30f" title="Initializes the projection matrix. " alt="" coords="203,125,374,166"/>
+<area shape="rect" id="node4" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="432,5,627,32"/>
+<area shape="rect" id="node8" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="443,259,616,285"/>
+<area shape="rect" id="node10" href="$class_data_object.html#afc40c36182d015ebfca1582dfb38a997" title="Returns the number of features. " alt="" coords="193,241,384,268"/>
+<area shape="rect" id="node11" href="$class_p_c_a__.html#a182e7e2606c0736878c94d2c1cc3a940" title="Returns the eigenvalues of the projection. " alt="" coords="211,292,366,319"/>
+<area shape="rect" id="node12" href="$class_object_matrix.html#a95ccc85c53784f770d61b85eb6e8ec83" title="Updates the feature value. " alt="" coords="203,343,374,385"/>
+<area shape="rect" id="node13" href="$class_data_object.html#aa258d90bef79d829aecf5c0f96d4cb21" title="Returns the feature at specified index. " alt="" coords="203,409,374,436"/>
+<area shape="rect" id="node14" href="$class_object_matrix.html#aff12e3268d72ed3289bb4ef2fb8a0931" title="ObjectMatrix::setPrintClass" alt="" coords="197,460,380,487"/>
+<area shape="rect" id="node15" href="$class_object_matrix.html#a09495608fe0a17993015a62b2c4ef177" title="Returns class atrribute names. " alt="" coords="194,511,383,553"/>
+<area shape="rect" id="node5" href="$class_statistics.html#a95c663d5ada9f214460a2ee605cb8772" title="Statistics::getRandom" alt="" coords="454,56,605,83"/>
+<area shape="rect" id="node6" href="$class_object_matrix.html#ad4b04e1394466da4d3c30b302d97eee5" title="returns quantity of different classes " alt="" coords="435,107,624,133"/>
+<area shape="rect" id="node7" href="$class_object_matrix.html#ad86f28d800ac47591eaa921c8e30fc98" title="Adds the DataObject to the set of DataObjects. " alt="" coords="448,157,611,184"/>
+<area shape="rect" id="node9" href="$class_data_object.html#a5f3a38761900e1dccbee711b1e58d879" title="Returns the class label. " alt="" coords="441,208,618,235"/>
+</map>

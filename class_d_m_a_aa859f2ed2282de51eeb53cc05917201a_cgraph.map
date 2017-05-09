@@ -1,0 +1,5 @@
+<map id="DMA::setNeighbours" name="DMA::setNeighbours">
+<area shape="rect" id="node2" href="$class_shufle_objects.html#a65959cfcb92d7758e665b14a08aec17e" title="Returns the list of shuffled indexes of the matrix objectMatrix DataObjects. " alt="" coords="196,5,379,47"/>
+<area shape="rect" id="node3" href="$class_object_matrix.html#ad86f28d800ac47591eaa921c8e30fc98" title="Adds the DataObject to the set of DataObjects. " alt="" coords="206,71,369,98"/>
+<area shape="rect" id="node4" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="201,122,374,149"/>
+</map>

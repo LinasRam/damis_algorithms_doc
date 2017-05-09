@@ -1,0 +1,6 @@
+<map id="DimReductionMethod" name="DimReductionMethod">
+<area shape="rect" id="node2" href="$class_h_p_c_method.html" title="Abstract class that aggregates ObjectMatrix X and ability to send SOAP message with data about stress..." alt="" coords="35,200,127,227"/>
+<area shape="rect" id="node3" href="$class_web_interface.html" title="WebInterface" alt="" coords="5,81,104,108"/>
+<area shape="rect" id="node4" href="$class_object_matrix.html" title="A class of methods and attributes for manipulating matrices. " alt="" coords="128,81,224,108"/>
+<area shape="rect" id="node5" href="$class_data_matrix.html" title="A class of pure virtual methods for manipulating the Objectmatrix. " alt="" coords="133,5,219,32"/>
+</map>

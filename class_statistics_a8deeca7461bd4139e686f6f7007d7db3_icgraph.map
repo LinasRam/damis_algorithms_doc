@@ -1,0 +1,6 @@
+<map id="Statistics::getAverage" name="Statistics::getAverage">
+<area shape="rect" id="node2" href="$class_p_c_a__.html#adc79e66272adba95285a7a4057193808" title="Converts the ObjectMatrix to alglib&#39;s real_2d_array. " alt="" coords="214,5,345,32"/>
+<area shape="rect" id="node3" href="$class_statistics.html#a1a838b965937f07e9f9da9e45b6b7c13" title="Calculates the correlation coefficient between the i&#45;th and the j&#45;th DataObjects. ..." alt="" coords="203,56,356,83"/>
+<area shape="rect" id="node4" href="$class_statistics.html#a10d24d0362b1381a43769f8e76c11272" title="Calculates the covariation coefficient between the i&#45;th and the j&#45;th DataObjects. ..." alt="" coords="204,107,355,133"/>
+<area shape="rect" id="node5" href="$class_statistics.html#a416af098586ca42087839473c2fd2609" title="Returns the covariation matrix. " alt="" coords="404,107,564,133"/>
+</map>

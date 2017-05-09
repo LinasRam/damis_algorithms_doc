@@ -1,0 +1,29 @@
+<map id="SDS::getProjection" name="SDS::getProjection">
+<area shape="rect" id="node2" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="911,573,1105,599"/>
+<area shape="rect" id="node3" href="$class_projection.html#adbb2e45b5e256e3f040fbd9d5f711141" title="Orders. " alt="" coords="197,77,359,103"/>
+<area shape="rect" id="node4" href="$class_shufle_objects.html#a65959cfcb92d7758e665b14a08aec17e" title="Returns the list of shuffled indexes of the matrix objectMatrix DataObjects. " alt="" coords="187,128,369,169"/>
+<area shape="rect" id="node5" href="$class_object_matrix.html#ad86f28d800ac47591eaa921c8e30fc98" title="Adds the DataObject to the set of DataObjects. " alt="" coords="685,269,847,295"/>
+<area shape="rect" id="node6" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="921,791,1095,818"/>
+<area shape="rect" id="node7" href="$class_p_c_a__.html#a4d1ff113e19c93ef2a83e10e5bc42f9d" title="Returns the projection matrix. " alt="" coords="208,530,348,557"/>
+<area shape="rect" id="node13" href="$class_data_object.html#afc40c36182d015ebfca1582dfb38a997" title="Returns the number of features. " alt="" coords="913,1187,1103,1214"/>
+<area shape="rect" id="node17" href="$class_object_matrix.html#aff12e3268d72ed3289bb4ef2fb8a0931" title="ObjectMatrix::setPrintClass" alt="" coords="428,682,611,709"/>
+<area shape="rect" id="node18" href="$class_object_matrix.html#a09495608fe0a17993015a62b2c4ef177" title="Returns class atrribute names. " alt="" coords="425,733,614,775"/>
+<area shape="rect" id="node19" href="$class_s_m_a_c_o_f.html#aeab285dca057c854c5e7ebd48c533173" title="Returns the projection matrix Y of matrix X. " alt="" coords="197,901,359,927"/>
+<area shape="rect" id="node24" href="$class_distance_metrics.html#ab25ac729133a4462dc042f3018dd11e1" title="Calculates the distance between two DataObjects. " alt="" coords="669,1162,863,1189"/>
+<area shape="rect" id="node25" href="$class_object_matrix.html#a69d885c4bc2de6c443f0203f90f390ac" title="Clears the items from the DataObjects set. *. " alt="" coords="417,1154,621,1181"/>
+<area shape="rect" id="node27" href="$class_additional_methods.html#a3e4a70d219edff70e17ccb5a1f073f05" title="AdditionalMethods::\lDataObjectTo1DArray" alt="" coords="692,1264,840,1305"/>
+<area shape="rect" id="node28" href="$class_additional_methods.html#a5f432c573ac079be17896aed9f29fee0" title="Converts the alglib&#39;s one&#45;dimensional array to an DataObject object. " alt="" coords="189,1381,367,1423"/>
+<area shape="rect" id="node8" href="$class_dim_reduction_method.html#aaac0eb9255ba23a321397abd1ed4c6c3" title="Sets the projection dimension. " alt="" coords="436,296,603,337"/>
+<area shape="rect" id="node9" href="$class_dim_reduction_method.html#a38e150517e00fc82e6b1fba06c0ee30f" title="Initializes the projection matrix. " alt="" coords="434,413,605,455"/>
+<area shape="rect" id="node14" href="$class_p_c_a__.html#a182e7e2606c0736878c94d2c1cc3a940" title="Returns the eigenvalues of the projection. " alt="" coords="442,362,597,389"/>
+<area shape="rect" id="node15" href="$class_object_matrix.html#a95ccc85c53784f770d61b85eb6e8ec83" title="Updates the feature value. " alt="" coords="681,624,851,665"/>
+<area shape="rect" id="node16" href="$class_data_object.html#aa258d90bef79d829aecf5c0f96d4cb21" title="Returns the feature at specified index. " alt="" coords="923,1137,1093,1163"/>
+<area shape="rect" id="node10" href="$class_statistics.html#a95c663d5ada9f214460a2ee605cb8772" title="Statistics::getRandom" alt="" coords="691,319,841,346"/>
+<area shape="rect" id="node11" href="$class_object_matrix.html#ad4b04e1394466da4d3c30b302d97eee5" title="returns quantity of different classes " alt="" coords="671,370,861,397"/>
+<area shape="rect" id="node12" href="$class_data_object.html#a5f3a38761900e1dccbee711b1e58d879" title="Returns the class label. " alt="" coords="677,471,855,498"/>
+<area shape="rect" id="node20" href="$class_s_m_a_c_o_f.html#a217cf766a28d06bdcc42e7fca7237e69" title="Returns the stress error value. " alt="" coords="448,1053,591,1079"/>
+<area shape="rect" id="node26" href="$class_m_d_s.html#ae2c75ed64a8d3ec252c1b48d400121b1" title="Calculates the matrix of the Guttman. " alt="" coords="458,951,581,978"/>
+<area shape="rect" id="node21" href="$class_dim_reduction_method.html#af49b71f47bc81c1dc9de215fb2daba29" title="Returns the stress error value. " alt="" coords="693,944,839,985"/>
+<area shape="rect" id="node22" href="$class_data_object.html#a42a5e8eb6c56bc7b27bb078105e1e07e" title="Returns features of the current data object. " alt="" coords="926,977,1090,1003"/>
+<area shape="rect" id="node23" href="$class_object_matrix.html#aa755729135424654138d092c8e4ffb82" title="Returns weight of X matrix (for stress calculation) " alt="" coords="927,926,1089,953"/>
+</map>

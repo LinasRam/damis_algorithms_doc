@@ -1,0 +1,9 @@
+<map id="ClusterizationMethods::initializeYMatrix" name="ClusterizationMethods::initializeYMatrix">
+<area shape="rect" id="node2" href="$class_clusterization_methods.html#a8fd7eb5891d7d0247cf2a2ad0bc2116e" title="Returns number of rows of the input data. " alt="" coords="224,5,375,47"/>
+<area shape="rect" id="node3" href="$class_clusterization_methods.html#a132299e8d41419cde7e9ec48724a7230" title="Returns row feature quantity. " alt="" coords="204,71,395,112"/>
+<area shape="rect" id="node4" href="$class_statistics.html#a95c663d5ada9f214460a2ee605cb8772" title="Statistics::getRandom" alt="" coords="224,137,375,163"/>
+<area shape="rect" id="node5" href="$class_object_matrix.html#ad4b04e1394466da4d3c30b302d97eee5" title="returns quantity of different classes " alt="" coords="205,187,394,214"/>
+<area shape="rect" id="node6" href="$class_object_matrix.html#ad86f28d800ac47591eaa921c8e30fc98" title="Adds the DataObject to the set of DataObjects. " alt="" coords="218,238,381,265"/>
+<area shape="rect" id="node7" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="213,289,386,315"/>
+<area shape="rect" id="node8" href="$class_data_object.html#a5f3a38761900e1dccbee711b1e58d879" title="Returns the class label. " alt="" coords="211,339,388,366"/>
+</map>

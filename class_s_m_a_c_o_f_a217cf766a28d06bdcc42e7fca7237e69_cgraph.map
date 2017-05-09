@@ -1,0 +1,10 @@
+<map id="SMACOF::getStress" name="SMACOF::getStress">
+<area shape="rect" id="node2" href="$class_dim_reduction_method.html#af49b71f47bc81c1dc9de215fb2daba29" title="Returns the stress error value. " alt="" coords="219,107,366,149"/>
+<area shape="rect" id="node3" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="437,5,632,32"/>
+<area shape="rect" id="node4" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="448,56,621,83"/>
+<area shape="rect" id="node8" href="$class_distance_metrics.html#ab25ac729133a4462dc042f3018dd11e1" title="Calculates the distance between two DataObjects. " alt="" coords="196,208,389,235"/>
+<area shape="rect" id="node5" href="$class_data_object.html#afc40c36182d015ebfca1582dfb38a997" title="Returns the number of features. " alt="" coords="439,208,630,235"/>
+<area shape="rect" id="node6" href="$class_data_object.html#a42a5e8eb6c56bc7b27bb078105e1e07e" title="Returns features of the current data object. " alt="" coords="453,107,617,133"/>
+<area shape="rect" id="node7" href="$class_object_matrix.html#aa755729135424654138d092c8e4ffb82" title="Returns weight of X matrix (for stress calculation) " alt="" coords="453,157,616,184"/>
+<area shape="rect" id="node9" href="$class_data_object.html#aa258d90bef79d829aecf5c0f96d4cb21" title="Returns the feature at specified index. " alt="" coords="449,259,620,285"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DimReductionMethod::setProjectionDimension" name="DimReductionMethod::setProjectionDimension">
+<area shape="rect" id="node2" href="$class_p_c_a__.html#a4d1ff113e19c93ef2a83e10e5bc42f9d" title="Returns the projection matrix. " alt="" coords="220,31,360,57"/>
+<area shape="rect" id="node3" href="$class_projection.html#ac0554f994078308f0169a4629a2d1b0a" title="Projection::~Projection" alt="" coords="408,5,563,32"/>
+<area shape="rect" id="node4" href="$class_s_d_s.html#a19df8a9507611554b71232b7a79ea52a" title="Returns the projection matrix Y of matrix X. " alt="" coords="419,56,552,83"/>
+</map>

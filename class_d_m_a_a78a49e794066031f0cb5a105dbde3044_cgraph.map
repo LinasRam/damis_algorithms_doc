@@ -1,0 +1,17 @@
+<map id="DMA::DMA" name="DMA::DMA">
+<area shape="rect" id="node2" href="$class_object_matrix.html#a78a2ec12e8409c196450f371d38ba116" title="Loads the data to ObjectMatrix from an arff file. " alt="" coords="141,157,332,184"/>
+<area shape="rect" id="node10" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="380,325,575,352"/>
+<area shape="rect" id="node11" href="$class_object_matrix.html#ad86f28d800ac47591eaa921c8e30fc98" title="Adds the DataObject to the set of DataObjects. " alt="" coords="396,376,559,403"/>
+<area shape="rect" id="node12" href="$class_dim_reduction_method.html#a38e150517e00fc82e6b1fba06c0ee30f" title="Initializes the projection matrix. " alt="" coords="151,427,322,469"/>
+<area shape="rect" id="node3" href="$class_a_r_f_f.html#a079155fa09e2d90ef9a890baaee6b2de" title="A method that returns the indicator value of successful file reading. " alt="" coords="388,5,567,32"/>
+<area shape="rect" id="node4" href="$class_a_r_f_f.html#a2deb8844194d086b02cbffb9f4cc3804" title="A method that reads data from an arff file. " alt="" coords="423,56,532,83"/>
+<area shape="rect" id="node5" href="$class_a_r_f_f.html#a3d5df29ef847af84ec9c3a95b4324f15" title="Indicates if class is found in arff file. " alt="" coords="406,107,549,133"/>
+<area shape="rect" id="node6" href="$class_a_r_f_f.html#a7040c9d91f03924d48cc950a9ca84622" title="Returns classes as int values. " alt="" coords="413,157,542,184"/>
+<area shape="rect" id="node7" href="$class_a_r_f_f.html#a3b3851b092659f87210e644ce2876556" title="Returns attribute section list of classes. " alt="" coords="395,209,560,250"/>
+<area shape="rect" id="node9" href="$class_a_r_f_f.html#a463fa0bc152dd22bf3a65dfa8ac7fccb" title="Returns class class of the i&#45;th object. " alt="" coords="401,275,554,301"/>
+<area shape="rect" id="node8" href="$class_additional_methods.html#a2f25d14f7d60e177fbf29d49f93a8443" title="AdditionalMethods::\lsplit" alt="" coords="623,209,760,250"/>
+<area shape="rect" id="node13" href="$class_statistics.html#a95c663d5ada9f214460a2ee605cb8772" title="Statistics::getRandom" alt="" coords="402,427,553,453"/>
+<area shape="rect" id="node14" href="$class_object_matrix.html#ad4b04e1394466da4d3c30b302d97eee5" title="returns quantity of different classes " alt="" coords="383,477,572,504"/>
+<area shape="rect" id="node15" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="391,528,564,555"/>
+<area shape="rect" id="node16" href="$class_data_object.html#a5f3a38761900e1dccbee711b1e58d879" title="Returns the class label. " alt="" coords="389,579,566,605"/>
+</map>

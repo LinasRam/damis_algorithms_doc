@@ -1,0 +1,6 @@
+<map id="Statistics::getCorrCoef" name="Statistics::getCorrCoef">
+<area shape="rect" id="node2" href="$class_statistics.html#a8deeca7461bd4139e686f6f7007d7db3" title="Calculates the average value of the specified features. " alt="" coords="207,43,356,69"/>
+<area shape="rect" id="node3" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="404,5,599,32"/>
+<area shape="rect" id="node4" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="415,81,588,108"/>
+<area shape="rect" id="node5" href="$class_data_object.html#aa258d90bef79d829aecf5c0f96d4cb21" title="Returns the feature at specified index. " alt="" coords="416,132,587,159"/>
+</map>

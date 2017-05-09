@@ -1,0 +1,11 @@
+<map id="MDS" name="MDS">
+<area shape="rect" id="node5" href="$class_d_m_a.html" title="A class of methods and attributes for DMA algorithm. " alt="" coords="5,304,56,331"/>
+<area shape="rect" id="node6" href="$class_s_d_s.html" title="A class of methods and attributes for SDS algorithm. " alt="" coords="81,304,130,331"/>
+<area shape="rect" id="node7" href="$class_s_d_s2.html" title="SDS2" alt="" coords="155,304,211,331"/>
+<area shape="rect" id="node8" href="$class_s_m_a_c_o_f.html" title="A class of methods and attributes for SMACOF algorithm. " alt="" coords="235,304,314,331"/>
+<area shape="rect" id="node2" href="$class_dim_reduction_method.html" title="A class of methods and attributes for initialization of projection matrix. " alt="" coords="71,155,217,181"/>
+<area shape="rect" id="node3" href="$class_h_p_c_method.html" title="Abstract class that aggregates ObjectMatrix X and ability to send SOAP message with data about stress..." alt="" coords="98,80,190,107"/>
+<area shape="rect" id="node4" href="$class_web_interface.html" title="WebInterface" alt="" coords="95,5,193,32"/>
+<area shape="rect" id="node9" href="$class_s_m_a_c_o_f_z_e_i_d_e_l.html" title="A class of methods and attributes for SMACOFZEIDEL algorithm. " alt="" coords="151,379,273,405"/>
+<area shape="rect" id="node10" href="$class_s_o_m_m_d_s.html" title="A class of methods and attributes for SOMMDS algorithm. " alt="" coords="298,379,379,405"/>
+</map>

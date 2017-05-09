@@ -1,0 +1,26 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_additional_methods.html#a27f1a5db4cebdaefaeb1cc87257e5b18" title="AdditionalMethods::\lgenerateFileName" alt="" coords="104,72,241,113"/>
+<area shape="rect" id="node3" href="$class_additional_methods.html#aff4e0affc57ea4370e500a54c7bb3283" title="AdditionalMethods::\lgenerateFileName2" alt="" coords="104,137,241,178"/>
+<area shape="rect" id="node4" href="$class_additional_methods.html#ab8f48aa6c6133cbff606c2a40cacacdc" title="AdditionalMethods::\lgenerateFileName3" alt="" coords="104,202,241,244"/>
+<area shape="rect" id="node5" href="$class_statistics.html#a190697b2b10f2581a70319dbbcd24860" title="Initiates seed for each processor. " alt="" coords="107,268,239,295"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#abe6b87060930847ed4e0cc797dd9b78b" title="strToInt" alt="" coords="140,319,205,346"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#af56612945d47888c592f10136fa1f8fd" title="paralelCompute" alt="" coords="117,370,229,396"/>
+<area shape="rect" id="node25" href="$main_8cpp.html#ab091dc031ec336c6bba016bb5a0d99ba" title="strToDouble" alt="" coords="127,420,218,447"/>
+<area shape="rect" id="node8" href="$class_object_matrix.html#ad0d2f016002ed87b2a354e50a4cdfcee" title="Saves the ObjectMatrix data to an arff file. " alt="" coords="289,71,483,98"/>
+<area shape="rect" id="node9" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="541,20,715,47"/>
+<area shape="rect" id="node10" href="$class_data_object.html#afc40c36182d015ebfca1582dfb38a997" title="Returns the number of features. " alt="" coords="533,122,723,148"/>
+<area shape="rect" id="node12" href="$class_a_r_f_f.html#a2a8425f2d28a11e634d7f9719781e869" title="Writes satistical data to a file. " alt="" coords="315,340,457,367"/>
+<area shape="rect" id="node13" href="$class_additional_methods.html#a455b29aa33d8c3b0a4357aa43bd708da" title="Allocates a two&#45;dimensional array of doubles in continuous space. " alt="" coords="559,224,697,265"/>
+<area shape="rect" id="node14" href="$class_additional_methods.html#a7ebee5544ae6a704b0df53aa0803ddc7" title="Converts a two&#45;dimensional array to ObjectMatrix object. " alt="" coords="311,392,461,433"/>
+<area shape="rect" id="node16" href="$class_object_matrix.html#a95ccc85c53784f770d61b85eb6e8ec83" title="Updates the feature value. " alt="" coords="301,457,471,498"/>
+<area shape="rect" id="node17" href="$class_object_matrix.html#aff12e3268d72ed3289bb4ef2fb8a0931" title="ObjectMatrix::setPrintClass" alt="" coords="295,523,477,550"/>
+<area shape="rect" id="node18" href="$class_object_matrix.html#a80dcb1409cfb2dba002b92998fdd1ba5" title="Updates the class value. " alt="" coords="301,574,471,616"/>
+<area shape="rect" id="node19" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="531,290,725,316"/>
+<area shape="rect" id="node20" href="$class_additional_methods.html#ac7705cfa0491309b52ea3f3058679ea4" title="Converts ObjectMatrix to 2D array of doubles. " alt="" coords="311,173,461,214"/>
+<area shape="rect" id="node22" href="$class_object_matrix.html#ad4b04e1394466da4d3c30b302d97eee5" title="returns quantity of different classes " alt="" coords="291,640,481,667"/>
+<area shape="rect" id="node23" href="$class_object_matrix.html#a09495608fe0a17993015a62b2c4ef177" title="Returns class atrribute names. " alt="" coords="291,692,481,733"/>
+<area shape="rect" id="node24" href="$class_data_object.html#a5f3a38761900e1dccbee711b1e58d879" title="Returns the class label. " alt="" coords="297,758,475,784"/>
+<area shape="rect" id="node11" href="$class_a_r_f_f.html#a75a3abe9595604658206380d84e6fdec" title="A method that writes data to an arff file. " alt="" coords="569,71,687,98"/>
+<area shape="rect" id="node15" href="$class_object_matrix.html#ad86f28d800ac47591eaa921c8e30fc98" title="Adds the DataObject to the set of DataObjects. " alt="" coords="547,399,709,426"/>
+<area shape="rect" id="node21" href="$class_data_object.html#aa258d90bef79d829aecf5c0f96d4cb21" title="Returns the feature at specified index. " alt="" coords="543,172,713,199"/>
+</map>

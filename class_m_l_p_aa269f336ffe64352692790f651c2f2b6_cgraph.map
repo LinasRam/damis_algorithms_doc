@@ -1,0 +1,18 @@
+<map id="MLP::getProjection" name="MLP::getProjection">
+<area shape="rect" id="node2" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="438,5,611,32"/>
+<area shape="rect" id="node3" href="$class_data_object.html#afc40c36182d015ebfca1582dfb38a997" title="Returns the number of features. " alt="" coords="189,377,379,404"/>
+<area shape="rect" id="node4" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="187,428,381,455"/>
+<area shape="rect" id="node5" href="$class_clusterization_methods.html#a6e786b38a05f166c1b8ea6d85b3f328d" title="Initializes return data structure. " alt="" coords="209,185,359,226"/>
+<area shape="rect" id="node9" href="$class_object_matrix.html#ad4b04e1394466da4d3c30b302d97eee5" title="returns quantity of different classes " alt="" coords="430,289,619,316"/>
+<area shape="rect" id="node11" href="$class_data_object.html#a5f3a38761900e1dccbee711b1e58d879" title="Returns the class label. " alt="" coords="436,340,613,367"/>
+<area shape="rect" id="node12" href="$class_data_object.html#aa258d90bef79d829aecf5c0f96d4cb21" title="Returns the feature at specified index. " alt="" coords="199,479,369,505"/>
+<area shape="rect" id="node13" href="$class_object_matrix.html#a95ccc85c53784f770d61b85eb6e8ec83" title="Updates the feature value. " alt="" coords="199,530,369,571"/>
+<area shape="rect" id="node14" href="$class_object_matrix.html#a80dcb1409cfb2dba002b92998fdd1ba5" title="Updates the class value. " alt="" coords="199,595,369,637"/>
+<area shape="rect" id="node15" href="$class_object_matrix.html#a09495608fe0a17993015a62b2c4ef177" title="Returns class atrribute names. " alt="" coords="189,661,379,702"/>
+<area shape="rect" id="node16" href="$class_object_matrix.html#ae8e2dae6536ebd32e08d9949b44ac538" title="Sets class attribute names. " alt="" coords="195,727,373,753"/>
+<area shape="rect" id="node17" href="$class_object_matrix.html#aff12e3268d72ed3289bb4ef2fb8a0931" title="ObjectMatrix::setPrintClass" alt="" coords="193,777,375,804"/>
+<area shape="rect" id="node6" href="$class_clusterization_methods.html#a8fd7eb5891d7d0247cf2a2ad0bc2116e" title="Returns number of rows of the input data. " alt="" coords="449,107,600,149"/>
+<area shape="rect" id="node7" href="$class_clusterization_methods.html#a132299e8d41419cde7e9ec48724a7230" title="Returns row feature quantity. " alt="" coords="429,173,620,214"/>
+<area shape="rect" id="node8" href="$class_statistics.html#a95c663d5ada9f214460a2ee605cb8772" title="Statistics::getRandom" alt="" coords="449,239,600,265"/>
+<area shape="rect" id="node10" href="$class_object_matrix.html#ad86f28d800ac47591eaa921c8e30fc98" title="Adds the DataObject to the set of DataObjects. " alt="" coords="443,56,606,83"/>
+</map>

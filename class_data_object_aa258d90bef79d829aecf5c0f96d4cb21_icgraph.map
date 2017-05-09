@@ -1,0 +1,36 @@
+<map id="DataObject::getFeatureAt" name="DataObject::getFeatureAt">
+<area shape="rect" id="node2" href="$class_additional_methods.html#ac7705cfa0491309b52ea3f3058679ea4" title="Converts ObjectMatrix to 2D array of doubles. " alt="" coords="249,5,399,47"/>
+<area shape="rect" id="node5" href="$class_additional_methods.html#ace2cb0801468e422c926dab5f47dd16a" title="Converts the ObjectMatrix DataObjects to alglib&#39;s one&#45;dimensional array. " alt="" coords="245,71,403,112"/>
+<area shape="rect" id="node6" href="$class_additional_methods.html#a3e4a70d219edff70e17ccb5a1f073f05" title="AdditionalMethods::\lDataObjectTo1DArray" alt="" coords="730,172,878,213"/>
+<area shape="rect" id="node9" href="$class_clusterization_methods.html#a79426191a31a5b258316566b8448ef74" title="ClusterizationMethods\l::initializeData" alt="" coords="249,948,399,989"/>
+<area shape="rect" id="node10" href="$class_d_e_c_t_r_e_e.html#ab70ba7e5a059ae5c96ba38de8eecce3a" title="Returns the projection matrix Y of matrix X. " alt="" coords="241,1014,407,1041"/>
+<area shape="rect" id="node11" href="$class_distance_metrics.html#ab25ac729133a4462dc042f3018dd11e1" title="Calculates the distance between two DataObjects. " alt="" coords="227,567,421,594"/>
+<area shape="rect" id="node12" href="$class_m_d_s.html#ae2c75ed64a8d3ec252c1b48d400121b1" title="Calculates the matrix of the Guttman. " alt="" coords="500,289,623,315"/>
+<area shape="rect" id="node13" href="$class_d_m_a.html#a05dbaa3e1b0bea086c51f53bb848c2cf" title="Returns the projection Y of matrix X. " alt="" coords="737,238,871,265"/>
+<area shape="rect" id="node14" href="$class_s_m_a_c_o_f.html#aeab285dca057c854c5e7ebd48c533173" title="Returns the projection matrix Y of matrix X. " alt="" coords="723,390,885,417"/>
+<area shape="rect" id="node16" href="$class_s_m_a_c_o_f_z_e_i_d_e_l.html#a9b0795a42182f3a864575cdf8658f8a1" title="Returns the projection matrix Y of matrix X. " alt="" coords="701,289,907,315"/>
+<area shape="rect" id="node18" href="$class_s_a_m_a_n_n.html#ac1b8b6cc239d5f586ba1d5c88e89d5ab" title="Returns the projection matrix Y of matrix X. " alt="" coords="723,627,885,654"/>
+<area shape="rect" id="node22" href="$class_s_o_m.html#a3bdc03e40a43bba71d88bf95d790956c" title="Returns the projection matrix Y of matrix X. " alt="" coords="493,795,629,822"/>
+<area shape="rect" id="node26" href="$class_k_m_e_a_n_s.html#a91cb2532bbf5bae1dd32a6a5dfcb6e0f" title="Returns the projection matrix Y of matrix X. " alt="" coords="243,1065,405,1091"/>
+<area shape="rect" id="node27" href="$class_m_l_p.html#aa269f336ffe64352692790f651c2f2b6" title="Returns the projection matrix Y of matrix X. " alt="" coords="257,1115,391,1142"/>
+<area shape="rect" id="node28" href="$class_p_c_a__.html#a4d1ff113e19c93ef2a83e10e5bc42f9d" title="Returns the projection matrix. " alt="" coords="254,795,394,822"/>
+<area shape="rect" id="node29" href="$class_projection.html#ac0554f994078308f0169a4629a2d1b0a" title="Projection::~Projection" alt="" coords="484,897,639,923"/>
+<area shape="rect" id="node30" href="$class_p_c_a__.html#adc79e66272adba95285a7a4057193808" title="Converts the ObjectMatrix to alglib&#39;s real_2d_array. " alt="" coords="496,1191,627,1218"/>
+<area shape="rect" id="node31" href="$class_statistics.html#a8deeca7461bd4139e686f6f7007d7db3" title="Calculates the average value of the specified features. " alt="" coords="249,1217,399,1243"/>
+<area shape="rect" id="node32" href="$class_statistics.html#a1a838b965937f07e9f9da9e45b6b7c13" title="Calculates the correlation coefficient between the i&#45;th and the j&#45;th DataObjects. ..." alt="" coords="485,1254,638,1281"/>
+<area shape="rect" id="node33" href="$class_statistics.html#a10d24d0362b1381a43769f8e76c11272" title="Calculates the covariation coefficient between the i&#45;th and the j&#45;th DataObjects. ..." alt="" coords="486,1311,637,1338"/>
+<area shape="rect" id="node35" href="$class_statistics.html#a431a4da4a21d1d7d35d864efa4bd560a" title="Statistics::getAverageColumns" alt="" coords="224,846,424,873"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#af56612945d47888c592f10136fa1f8fd" title="paralelCompute" alt="" coords="505,13,617,39"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="779,13,829,39"/>
+<area shape="rect" id="node7" href="$class_s_d_s.html#a19df8a9507611554b71232b7a79ea52a" title="Returns the projection matrix Y of matrix X. " alt="" coords="973,466,1107,493"/>
+<area shape="rect" id="node8" href="$class_s_d_s2.html#aa8e2bf16e81d305f5b5a14593414027b" title="Returns the projection matrix Y of matrix X. " alt="" coords="970,339,1110,366"/>
+<area shape="rect" id="node17" href="$class_s_a_m_a_n_n.html#a049a7c8c3f5d7a26924e3d3cc7734367" title="Constructor that takes, no of learning elements, no of neurons in hidden layer, learning speed value..." alt="" coords="490,491,633,518"/>
+<area shape="rect" id="node19" href="$class_s_a_m_a_n_n.html#a54584d8c797bc3d857491574f1d36c1e" title="Returns the stress error value. " alt="" coords="490,643,633,670"/>
+<area shape="rect" id="node20" href="$class_s_m_a_c_o_f.html#a217cf766a28d06bdcc42e7fca7237e69" title="Returns the stress error value. " alt="" coords="490,441,633,467"/>
+<area shape="rect" id="node23" href="$class_s_o_m.html#ad74323ca3152b9126eed18afec92128c" title="Returns the quantization error. " alt="" coords="472,745,651,771"/>
+<area shape="rect" id="node15" href="$class_s_o_m_m_d_s.html#ac9203d4513b650dff84e9b6a4747264a" title="Returns the projection matrix Y of matrix X. " alt="" coords="957,618,1123,645"/>
+<area shape="rect" id="node21" href="$class_s_o_m_m_d_s.html#a3ef58f1a2cb88c6c96dae6383c417009" title="Returns the MDS stress error. " alt="" coords="731,441,877,467"/>
+<area shape="rect" id="node24" href="$class_s_o_m.html#a3773d83c44c68c7de8eebce5c05e6180" title="Returns the quantization error. " alt="" coords="746,678,862,705"/>
+<area shape="rect" id="node25" href="$class_s_o_m_m_d_s.html#a57308f81c3726e2dc83b71e2713473b8" title="Returns the SOM quantization error. " alt="" coords="699,729,909,771"/>
+<area shape="rect" id="node34" href="$class_statistics.html#a416af098586ca42087839473c2fd2609" title="Returns the covariation matrix. " alt="" coords="724,1311,884,1338"/>
+</map>

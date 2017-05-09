@@ -1,0 +1,6 @@
+<map id="AdditionalMethods::ObjectMatrixTo1DArray" name="AdditionalMethods::ObjectMatrixTo1DArray">
+<area shape="rect" id="node2" href="$class_object_matrix.html#aabd852c4740c26bd3b06dd96643a6332" title="Returns the number of DataObjects in the set of DataObjects. " alt="" coords="211,5,405,32"/>
+<area shape="rect" id="node3" href="$class_object_matrix.html#aea8628a14f8288158aca8e23354ebadc" title="Returns the i&#45;th DataObject from the set of the DataObjects. " alt="" coords="221,56,395,83"/>
+<area shape="rect" id="node4" href="$class_data_object.html#afc40c36182d015ebfca1582dfb38a997" title="Returns the number of features. " alt="" coords="213,107,403,133"/>
+<area shape="rect" id="node5" href="$class_data_object.html#aa258d90bef79d829aecf5c0f96d4cb21" title="Returns the feature at specified index. " alt="" coords="223,157,393,184"/>
+</map>
